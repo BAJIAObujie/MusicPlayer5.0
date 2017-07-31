@@ -5,4 +5,5 @@ In current Version, "launch automatic webpage generator" get no support any more
 
 Nier: Automata is a game I recently play. This is a photo I download from web.
 
+![Image text](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/biQ2g-1fptZ1wT3cS1hc-u0.jpg)
 
