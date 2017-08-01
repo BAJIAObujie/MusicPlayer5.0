@@ -10,3 +10,5 @@ Relative file path
 
 Absolute file path
 ![Image](https://bajiaobujie.github.io/LHZMusicPlayer/MyPictures/gamersky_06origin_11_20174152140623.JPG)
+
+At last, thanks to the help from Friday Saarelaht. He helped me revise the mistake of file path I made before.
