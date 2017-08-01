@@ -5,13 +5,8 @@ In current Version, "launch automatic webpage generator" get no support any more
 
 Nier: Automata is a game I recently play. The following are some pictures I download from web. 
 
-![Aaron Swartz](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_05origin_09_201712820215AF.JPG)
+![Image](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_05origin_09_201712820215AF.JPG)
 
-![Aaron Swartz](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_06origin_11_20174152140623.JPG)
+![Image](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_06origin_11_20174152140623.JPG)
 
-//![Image](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_05origin_09_201712820215AF.JPG)
-
-//![Image](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_06origin_11_20174152140623.JPG)
-
-
-
+<img src="BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_06origin_11_20174152140623.JPG" onerror="onerror=null;src='BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_06origin_11_20174152140623.JPG'" />
