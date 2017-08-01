@@ -9,4 +9,6 @@ Nier: Automata is a game I recently play. The following are some pictures I down
 
 ![Image](https://github.com/BAJIAObujie/LHZMusicPlayer/blob/master/MyPictures/gamersky_06origin_11_20174152140623.JPG)
 
+![Image](MyPictures/gamersky_06origin_11_20174152140623.JPG)
 
+![Image](https://bajiaobujie.github.io/LHZMusicPlayer/MyPictures/gamersky_06origin_11_20174152140623.JPG)
