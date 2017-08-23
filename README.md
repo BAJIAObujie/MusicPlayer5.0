@@ -3,6 +3,10 @@ My Final Assignment in the first semester of junior year.
 
 In current Version, "launch automatic webpage generator" get no support any more. After we choose our theme in settings, we can edit the README.md this file, which will be displayed on your project webpage.
 
+Screenshot from my phone
+![Image](MyPictures/720.1233.jpg)
+
+------------------------------------------------------------------------------
 Nier: Automata is a game I recently play. The following are some pictures I download from web. 
 
 Relative file path
